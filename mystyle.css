@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.logo {
+    height: 40px;
+    border-radius: 40px;
+}
+
+.nav-bg-container {
+    background-color: #000000;
+}
+
+.navbar-options {
+    background-color: #ffffff;
+}
+
+
+.bg-container {
+    background-image: url("https://wallpaperset.com/w/full/7/e/8/38899.jpg");
+    padding: 10px;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
+#options-nav {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.my-info-container {
+    background-color: #ffffff;
+    padding: 5px;
+}
+
+.my-img {
+    height: 300px;
+    width: 280px;
+}
+
+.portfoli-main-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.highlighter {
+    color: #7CFC00;
+}
+
+.portfoli-main-info {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.about-me-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.About-heading {
+    color: #013364;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.about-info {
+    color: #0F5298;
+    font-family: "Roboto";
+}
+
+.my-img {
+    height: 300px;
+    width: 250px;
+    border-radius: 200px;
+}
+
+.about-sections-container {
+    background-color: #ffffff;
+    border-radius: 12px;
+}
+
+.skill-icon {
+    font-size: 45px;
+}
+
+.icon-heading {
+    color: #00171f;
+    font-family: "Roboto";
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+.skills-heading {
+    color: #013364;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.education-year {
+    color: #00171f;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.education-institue {
+    color: #999999;
+    font-family: "Roboto";
+    font-size: 17px;
+}
+
+.education-about {
+    color: #7E8C9C;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.skill-icon-1 {
+    font-size: 35px;
+    margin-right: 2px;
+}
+
+.my-project-container {
+    background-color: #1a1a1a;
+}
+
+.project-main-heading {
+    color: #f0faf0;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.project-container {
+    background-color: #262626;
+    border-radius: 12px;
+}
+
+.project-heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-top: 12px;
+}
+
+.p-logo {
+    height: 48px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.p-info {
+    color: #ffffff;
+    font-size: 13px;
+    font-family: "Roboto";
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.view-options {
+    font-size: 15px;
+    margin-left: 18px;
+    font-family: "Roboto";
+}
+
+.contact-bg-container {
+    background-color: #f0faf0;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding: 5px;
+}
+
+.contact-heading {
+    color: #000800;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 34px;
+}
+
+.contact-project-container {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.mail-container {
+    background-color: #ffffff;
+    border-radius: 12px;
+    height: 40px;
+    width: 200px;
+    padding: 8px;
+    margin-top: 12px;
+}
+
+
+.contact-info {
+    font-family: "Roboto";
+    color: #013364;
+}
+
+.contact-icon {
+    font-size: 48px;
+    color: #013364;
+}
+
+.ending-container {
+    background-color: black;
+    height: 50vh;
+}
+
+.end-icon {
+    color: #ffffff;
+}
+
+.apk-icons {
+    font-size: 30px;
+    background-color: #2e2e2e;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.end-info {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.arc {
+    background-color: #f0faf0;
+}
